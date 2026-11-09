@@ -7,3 +7,7 @@ Estoy aprendiendo GitHub desde cero.
 - Crear repositorios.
 - Organizar archivos.
 - Aprender control de versiones.
+
+## Lo que aprendí
+
+Aprendí a crear repositorios, archivos, carpetas y documentos Markdown en GitHub.
