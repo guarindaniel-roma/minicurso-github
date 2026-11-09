@@ -12,4 +12,4 @@ Estoy aprendiendo GitHub desde cero.
 
 Aprendí a crear repositorios, archivos, carpetas y documentos Markdown en GitHub.
 
-Agrego resumen de lo aprendido
+Agrego resumen de lo que aprendí
